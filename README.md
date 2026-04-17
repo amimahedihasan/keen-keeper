@@ -1,97 +1,79 @@
-# Keen Keeper
+# KeenKeeper — Keep Your Friendships Alive
 
-Keen Keeper is a simple friend relationship tracker built with Next.js. It helps users keep important connections organized, review contact history, and get a quick snapshot of relationship status.
+KeenKeeper is a clean and user-friendly web application designed to help users manage and maintain their personal relationships in an organized and efficient way.
 
+---
 
-## Live Link: https://keen-keeper-mu.vercel.app/
-## Live Features
-- View a curated list of friends from `public/friends.json`
-- Search friends by name
-- Open a dynamic friend details page at `/friendDetails/[id]`
-- Track quick interactions through Call, Text, and Video actions
-- See timeline entries filtered by interaction type
-- View friendship analytics with summary cards and a pie chart
-- Show toast feedback after each quick check-in
+## Developer
 
-## Pages and Routes
+Md Mehedi Hasan
 
-- `/` - Home page with hero section, stats cards, and friend list
-- `/time_line` - Timeline page with interaction filters
-- `/stats` - Analytics page based on saved interaction data
-- `/friendDetails/[id]` - Individual friend profile and quick action panel
+---
 
-## Tech Stack
+## Live Website
 
-- Next.js 16
-- React 19
-- Tailwind CSS 4
-- DaisyUI 5
-- Lucide React
-- Recharts
-- React Toastify
-- React Spinners
+https://your-live-link-here.com
 
-## Project Structure
+---
 
-```text
-src/
-  app/
-    friendDetails/[id]/
-    stats/
-    time_line/
-  Components/
-    Friends/
-    Header/
-    Footer/
-    Stats/
-    ContactHis/
-    TimlineButton/
-  Context/
-  Hooks/
-public/
-  friends.json
-  images/
-  Icons/
-```
+## GitHub Repository
 
-## Getting Started
+https://github.com/amimahedihasan/keen-keeper.git
 
-1. Install dependencies:
+---
+
+## Project Description
+
+KeenKeeper allows users to store and manage information about their friends, track communication history, and monitor relationship status over time.
+
+The goal of this project is to simplify relationship management using a minimal and intuitive interface.
+
+---
+
+## Key Features
+
+* Add, update, and manage friend information
+* Store profile details including name, email, and image
+* Track last communication date
+* Monitor relationship status (on-track or needs attention)
+* View statistics and timeline insights
+* Fully responsive design for all devices
+
+---
+
+## Technologies Used
+
+* React / Next.js
+* Tailwind CSS
+* Static JSON for data handling
+
+---
+
+## Installation and Setup
+
+To run this project locally, follow the steps below:
 
 ```bash
 npm install
-```
-
-2. Start the development server:
-
-```bash
 npm run dev
 ```
 
-3. Open `http://localhost:3000`
+---
 
-## Available Scripts
+## Deployment
 
-- `npm run dev` - Run the app in development mode
-- `npm run build` - Create a production build
-- `npm run start` - Start the production server
-- `npm run lint` - Run ESLint
+This project is deployed using Vercel for fast and reliable hosting.
 
-## Data Source
+---
 
-- Friend list data is stored locally in `public/friends.json`
-- Timeline and analytics data are managed in client-side context during runtime
-- The friend details page currently fetches friend data from the deployed JSON source
+## Future Improvements
 
-## Notes
+* Backend integration with database
+* User authentication system
+* Notification and reminder features
 
-- This project uses the App Router under `src/app`
-- Global layout includes a shared header, footer, and toast container
-- Styling is primarily handled with Tailwind CSS utility classes and DaisyUI components
+---
 
-## Improvement Ideas
+## Conclusion
 
-- Add persistent storage for timeline activity
-- Connect the "Add Friend" button to a form flow
-- Replace remote details fetch with a shared local/server data source
-
+KeenKeeper is built with a focus on simplicity, usability, and real-life value. It provides a structured way to maintain and improve personal connections.
