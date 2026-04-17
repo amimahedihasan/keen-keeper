@@ -1,121 +1,147 @@
 [
   {
     "id": 1,
-    "name": "Abdullah Hasan",
+    "name": "Arif Rahman",
     "picture": "/images/71da163a5dd4fc7d29c43158f6c623d1.jpg",
-    "email": "abdullah.hasan@gmail.com",
+    "email": "john@example.com",
     "days_since_contact": 12,
     "status": "on-track",
-    "tags": ["travel", "adventure"],
-    "bio": "Travel partner, we explore new places together.",
+    "tags": [
+      "college",
+      "close friend"
+    ],
+    "bio": "Met in university. Love hiking together.",
     "goal": 14,
     "next_due_date": "2025-07-20"
   },
   {
     "id": 2,
-    "name": "Fatima Noor",
+    "name": "Sarah Ahmed",
     "picture": "/images/w1.jpg",
-    "email": "fatima.noor@gmail.com",
+    "email": "sarah@example.com",
     "days_since_contact": 5,
     "status": "on-track",
-    "tags": ["creative", "design"],
-    "bio": "Loves art and creative design discussions.",
+    "tags": [
+      "office",
+      "teammate"
+    ],
+    "bio": "Works in the same team. Very supportive.",
     "goal": 10,
     "next_due_date": "2025-04-18"
   },
   {
     "id": 3,
-    "name": "Yusuf Karim",
+    "name": "Michael Lee",
     "picture": "/images/handsome-young-man-portrait-intense-look-eye-catching-beauty-fashionable-hair-beard-wearing-white-shirt-103253910.webp",
-    "email": "yusuf.karim@gmail.com",
+    "email": "michael@example.com",
     "days_since_contact": 20,
     "status": "overdue",
-    "tags": ["fitness", "health"],
-    "bio": "Motivates me to stay fit and active.",
+    "tags": [
+      "gym",
+      "friend"
+    ],
+    "bio": "Gym partner and fitness enthusiast.",
     "goal": 7,
     "next_due_date": "2025-04-10"
   },
   {
     "id": 4,
-    "name": "Amina Rahman",
+    "name": "Ayesha Khan",
     "picture": "/images/w3.jpg",
-    "email": "amina.rahman@gmail.com",
+    "email": "ayesha@example.com",
     "days_since_contact": 2,
     "status": "on-track",
-    "tags": ["family", "support"],
-    "bio": "Always there with emotional support.",
+    "tags": [
+      "family"
+    ],
+    "bio": "Cousin, we talk frequently.",
     "goal": 5,
     "next_due_date": "2025-04-16"
   },
   {
     "id": 5,
-    "name": "Omar Faruq",
+    "name": "David Smith",
     "picture": "/images/images (1).jpeg",
-    "email": "omar.faruq@gmail.com",
+    "email": "david@example.com",
     "days_since_contact": 15,
     "status": "overdue",
-    "tags": ["business", "network"],
-    "bio": "Helpful in professional networking.",
+    "tags": [
+      "client"
+    ],
+    "bio": "Important client from last project.",
     "goal": 10,
     "next_due_date": "2025-04-12"
   },
   {
     "id": 6,
-    "name": "Zainab Ahmed",
-    "picture": "/images/w3.jpg",
-    "email": "zainab.ahmed@gmail.com",
+    "name": "Nusrat Jahan",
+    "picture":"/images/w3.jpg",
+    "email": "nusrat@example.com",
     "days_since_contact": 8,
     "status": "almost due",
-    "tags": ["hobby", "lifestyle"],
-    "bio": "We share hobbies and life updates.",
+    "tags": [
+      "school",
+      "friend"
+    ],
+    "bio": "School friend, reconnecting recently.",
     "goal": 14,
     "next_due_date": "2025-04-20"
   },
   {
     "id": 7,
-    "name": "Hamza Ali",
+    "name": "Rahim Uddin",
     "picture": "/images/images (2).jpeg",
-    "email": "hamza.ali@gmail.com",
+    "email": "rahim@example.com",
     "days_since_contact": 1,
     "status": "on-track",
-    "tags": ["community", "local"],
-    "bio": "Active in local community activities.",
+    "tags": [
+      "neighbor"
+    ],
+    "bio": "Lives next door, we meet often.",
     "goal": 3,
     "next_due_date": "2025-04-15"
   },
   {
     "id": 8,
-    "name": "Maryam Siddiqua",
+    "name": "Emily Johnson",
     "picture": "/images/images.jpeg",
-    "email": "maryam.siddiqua@gmail.com",
+    "email": "emily@example.com",
     "days_since_contact": 18,
     "status": "overdue",
-    "tags": ["online", "discussion"],
-    "bio": "We share ideas through online discussions.",
+    "tags": [
+      "online",
+      "friend"
+    ],
+    "bio": "Met through an online community.",
     "goal": 10,
     "next_due_date": "2025-04-08"
   },
   {
     "id": 9,
-    "name": "Imran Hossain",
+    "name": "Tanvir Hasan",
     "picture": "/images/images.jpeg",
-    "email": "imran.hossain@gmail.com",
+    "email": "tanvir@example.com",
     "days_since_contact": 6,
     "status": "almost due",
-    "tags": ["project", "collaboration"],
-    "bio": "Worked together on multiple collaborations.",
+    "tags": [
+      "university",
+      "group mate"
+    ],
+    "bio": "Worked on group projects together.",
     "goal": 12,
     "next_due_date": "2025-04-19"
   },
   {
     "id": 10,
-    "name": "Sumaiya Akter",
+    "name": "Olivia Brown",
     "picture": "/images/w1.jpg",
-    "email": "sumaiya.akter@gmail.com",
+    "email": "olivia@example.com",
     "days_since_contact": 3,
     "status": "on-track",
-    "tags": ["guidance", "career"],
-    "bio": "Provides valuable career advice and guidance.",
+    "tags": [
+      "mentor"
+    ],
+    "bio": "Guides me in career decisions.",
     "goal": 7,
     "next_due_date": "2025-04-17"
   }
